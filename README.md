@@ -1,4 +1,4 @@
-# A Real-Time Virtual Bass Enhancement System Based on Wave Digital Filters
+# A Comparison of Real-Time Virtual Bass Enhancement Algorithms in The Discrete-Time Domain
 
 
 ## POP - Bad (Michael Jackson)
