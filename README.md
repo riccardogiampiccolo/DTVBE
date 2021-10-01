@@ -1,4 +1,4 @@
-# A Comparison of Real-Time Virtual Bass Enhancement Algorithms in The Discrete-Time Domain
+# A Comparison of Real-Time Virtual Bass Enhancement Algorithms in the Discrete-Time Domain
 
 
 ## POP - Bad (Michael Jackson)
