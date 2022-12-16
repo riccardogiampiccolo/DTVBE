@@ -15,7 +15,7 @@ R. Giampiccolo, A. Bernardini, and A. Sarti, "A Time-Domain Virtual Bass Enhance
     Month = {Sept.},
     Title = {A Time-Domain Virtual Bass Enhancement Circuital Model for Real-Time Music Applications},
     Year = {2022}}`
-
+    
 ## Audio Files
 
 All the audio tracks considered for this paper are available below.
