@@ -10,7 +10,7 @@ R. Giampiccolo, A. Bernardini, and A. Sarti, "A Time-Domain Virtual Bass Enhance
 
 `@inproceedings{giampiccolo:vbe2022,
     Address = {Shanghai, China},
-    Author = {R. Giampiccolo, A. Bernardini, and A. Sarti},
+    Author = {R. Giampiccolo, and A. Bernardini, and A. Sarti},
     Booktitle = {IEEE 24th International Workshop on Multimedia Signal Processing (MMSP 2022)},
     Month = {Sept.},
     Title = {A Time-Domain Virtual Bass Enhancement Circuital Model for Real-Time Music Applications},
