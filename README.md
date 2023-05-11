@@ -9,12 +9,13 @@ The paper can be downloaded from this [link](https://ieeexplore.ieee.org/documen
 R. Giampiccolo, A. Bernardini, and A. Sarti, "A Time-Domain Virtual Bass Enhancement Circuital Model for Real-Time Music Applications,” IEEE 24th International Workshop on Multimedia Signal Processing (MMSP 2022), Shanghai, China, 26-28 September 2022.
 
 `@inproceedings{giampiccolo:vbe2022,
-    Address = {Shanghai, China},
-    Author = {R. Giampiccolo, and A. Bernardini, and A. Sarti},
-    Booktitle = {IEEE 24th International Workshop on Multimedia Signal Processing (MMSP 2022)},
-    Month = {Sept.},
-    Title = {A Time-Domain Virtual Bass Enhancement Circuital Model for Real-Time Music Applications},
-    Year = {2022}}`
+    address = {Shanghai, China},
+    author = {R. Giampiccolo, and A. Bernardini, and A. Sarti},
+    booktitle = {IEEE 24th International Workshop on Multimedia Signal Processing (MMSP 2022)},
+    month = {Sept.},
+    title = {A Time-Domain Virtual Bass Enhancement Circuital Model for Real-Time Music Applications},
+    year = {2022}
+    doi={10.1109/MMSP55362.2022.9949443}}`
     
 ## Audio Files
 
