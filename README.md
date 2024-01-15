@@ -17,7 +17,7 @@ R. Giampiccolo, A. Bernardini, and A. Sarti, "A Time-Domain Virtual Bass Enhance
     year = {2022}
     doi={10.1109/MMSP55362.2022.9949443}}`
     
-## Audio Files
+## Audio Examples
 
 All the audio tracks considered for this paper are available below.
 
